@@ -4,6 +4,12 @@ Setup Windows, Mac and Linux Systems with ease
 
 ----
 
+## Languages
+
+<img src="https://user-images.githubusercontent.com/82535503/211297591-bcecb40e-cd91-43e4-a8c6-f938e080c7b1.png" width="50"> <img src="https://3.bp.blogspot.com/-a7jPVdFk9Hw/W_XeTJX6JyI/AAAAAAAAC2c/HCtxP0wSSs0wEMKJOYq7pivEJaSVin92gCLcBGAs/s1600/powershell.png" width="50"> <img src="https://user-images.githubusercontent.com/82535503/211298651-420261eb-4ee5-47ea-82fc-7425d4dc4792.png" width="100">
+
+
+
 ## Purpose?
 
 When you have a fresh `Operating System` you may find yourself spending a long time installing applications and setting up the registry how you want it. I'm sure you dont have time for that and would appreciate if something did it all for you. Well Assembly is a one time setup script written in `Python`. You can easily configure and possibly put it on your <a target="_blank" href="https://www.raspberrypi.com/products/raspberry-pi-pico/">`Raspberry Pi Pico`</a> or another `HID` device so it automatically runs and does the hard work for you.
