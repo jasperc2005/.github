@@ -19,7 +19,7 @@ When you have a fresh `Operating System` you may find yourself spending a long t
 ## Compatible Systems
 
 ![image](https://user-images.githubusercontent.com/82535503/211045788-ad2d8714-54ff-46fd-8de9-a982fdcdae78.png)
-![image](https://user-images.githubusercontent.com/82535503/211045850-8abacf8b-7c43-40be-810c-d1be0af6e93b.png)
+<img src="https://user-images.githubusercontent.com/88688658/211802066-81763f8d-6d97-4137-9e66-7d66e5ff344c.png" width ="50">
 ![image](https://user-images.githubusercontent.com/82535503/211045893-566e5f9e-2c62-4a85-9cf3-38d6f53593c5.png)
 
 
